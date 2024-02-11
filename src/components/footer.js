@@ -23,7 +23,7 @@ function AppFooter() {
 
   return (
     <Container fluid>
-      <div className="copyright">&copy; 2023 by <span>Ayush Kharya</span> | All rights reserved</div>
+      <div className="copyright">&copy; 2024 by <span>Ayush Kharya</span> | All rights reserved</div>
 
       <div className="socials">
         <ul>

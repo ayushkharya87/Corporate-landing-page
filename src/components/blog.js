@@ -7,7 +7,7 @@ const blogData = [
   {
     id: 1,
     image: require('../assets/images/blog1.jpg'),
-    time: '15 Dec 2023',
+    time: '10 Feb 2024',
     title: 'Coffee Lovers',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
     link: 'https://www.google.com'
@@ -15,7 +15,7 @@ const blogData = [
   {
     id: 2,
     image: require('../assets/images/blog2.jpg'),
-    time: '10 Nov 2023',
+    time: '10 Feb 2024',
     title: 'Tips for UI Design',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
     link: 'https://www.facebook.com'
@@ -23,7 +23,7 @@ const blogData = [
   {
     id: 3,
     image: require('../assets/images/blog3.jpg'),
-    time: '07 Nov 2023',
+    time: '10 Feb 2024',
     title: 'Beautiful Day',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
     link: 'https://www.twitter.com'

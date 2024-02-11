@@ -30,11 +30,11 @@ function AppAbout() {
               <ProgressBar now={html} label={`${html}%`} />
             </div>
             <div className='progress-block'>
-              <h4>responsive</h4>
+              <h4>React.js, next.js</h4>
               <ProgressBar now={responsive} label={`${responsive}%`} />
             </div>
             <div className='progress-block'>
-              <h4>Photoshop</h4>
+              <h4>Node.js, MOngodb</h4>
               <ProgressBar now={photoshop} label={`${photoshop}%`} />
             </div>
           </Col>
